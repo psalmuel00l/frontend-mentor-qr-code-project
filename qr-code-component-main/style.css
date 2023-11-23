@@ -1,0 +1,36 @@
+*{
+    background-color: lightblue;
+}nav{
+    padding: 20px;
+    height: 560px ; 
+    width: 350px;
+     background-color: whitesmoke;
+      margin: auto; 
+      margin-top: 35px;
+       border-radius: 5%; 
+       display: flexbox;
+       justify-content: space-around;  
+}.box1{
+    border-radius: 10px;
+    width: 350px;
+    height: 350px;
+    /* background:rgb(85, 85, 209); */
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    font-size: 3em;
+    font-weight: bold;
+    cursor: pointer;
+}.box2{
+   margin-top: 10px;
+    width: 350px;
+    height: 200px;
+    background:whitesmoke;
+    color: rgb(3, 3, 72);
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}h1,h2{
+    background-color: whitesmoke;
+}
